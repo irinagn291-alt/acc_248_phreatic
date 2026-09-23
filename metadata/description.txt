@@ -1,0 +1,12 @@
+Phreatic is a personal hydration log. The well starts full at wake. The water table falls through your waking hours, and a sip stems the ebb.
+
+• Set Body weight and Waking hours (Wake and Sleep), or tap Skip. The Daily goal is sized from your weight plus an Activity bonus of 0, 350, or 700 millilitres.
+• Watch remaining millilitres on the well. The water table falls in real time until Sleep.
+• Tap Log a sip to add the Default sip volume and push the table back up.
+• Tap Double the drain to double the fall for one hour.
+• The stave sits at 30 percent of the Daily goal. Still ahead and Behind mark Safe and Ebb.
+• Tap Open history to see Days behind you, days that Held or Fell behind, sip times, Fell behind, and Caught up.
+• Open Settings from the gear to change Body and hours, Activity bonus, and Default sip, read Sources, or tap Contact Phreatic.
+• A new day shows The day just started and First glass, best start.
+
+Phreatic is a personal log. It is not medical advice.

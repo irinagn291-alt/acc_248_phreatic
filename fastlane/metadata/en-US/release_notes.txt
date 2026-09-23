@@ -1,0 +1,7 @@
+Version 1.0 is the first release.
+
+The well starts full at wake and drains through Waking hours.
+Log a sip to stem the ebb.
+Double the drain for one hour.
+History shows days that Held or Fell behind.
+Settings holds Body and hours, Activity bonus, Default sip, Sources, and Contact Phreatic.

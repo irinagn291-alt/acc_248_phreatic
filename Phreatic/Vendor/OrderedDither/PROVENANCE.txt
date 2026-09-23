@@ -1,0 +1,1 @@
+OrderedDither 1.0.0 — Bayer matrix helpers; upstream commit 4b2e9c0 (folder swap, no remote URL).

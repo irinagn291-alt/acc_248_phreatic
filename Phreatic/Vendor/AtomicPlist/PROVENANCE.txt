@@ -1,0 +1,1 @@
+AtomicPlist 1.0.0 — vendored snapshot for in-app compile; upstream commit 8f3c2a1 (folder swap, no remote URL).
